@@ -9,7 +9,6 @@ After carefully reviewing your pre-work score, we believe that the Intermediate 
 To help you better understand the differences between the two tracks, we encourage you to review the below links. 
 * [Intermediate track](https://courses.codepath.org/snippets/tip102/syllabus)
 * [Advanced track](https://https://courses.codepath.org/snippets/tip103/syllabus)
-
 While the initial topics may appear similar, the pacing and complexity diverge as the courses progress, making it essential for participants to start in the appropriate track for their skill level.
 
 
@@ -20,4 +19,5 @@ If you have any concerns or questions about the Intermediate track, our team is 
 We appreciate your understanding and look forward to having you in the Intermediate track of our Technical Interview Prep program.
 
 All the best,
+
 CodePath.org Team
