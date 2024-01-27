@@ -6,8 +6,9 @@ We appreciate your enthusiasm and understand that you come from a strong academi
 However, our track placement decisions are primarily based on pre-work assessments, ensuring that participants are placed in a 
 track that aligns with their technical interview skills and provides the best learning experience.
 
-After carefully reviewing your pre-work score, we believe that the Intermediate track is better suited to your current skill level. 
-We want to ensure that all participants receive an optimal experience by being in a class that is neither too advanced nor too basic 
+After carefully reviewing your pre-work score, we believe that the Intermediate track is better suited to your current skill 
+level. We want to ensure that all participants receive an optimal experience by being in a class that is neither too advanced 
+nor too basic 
 for their proficiency.
 
 To help you better understand the differences between the two tracks, we encourage you to review the below links. 
@@ -19,8 +20,8 @@ participants to start in the appropriate track for their skill level.
 
 
 We understand that your academic achievements reflect your capabilities, and we commend your dedication. However, we want to 
-emphasize that our decision is solely based on technical interview skills and ensuring that you are in an environment that supports 
-your continued growth.
+emphasize that our decision is solely based on technical interview skills and ensuring that you are in an environment that 
+supports your continued growth.
 
 If you have any concerns or questions about the Intermediate track, our team is more than happy to provide additional information 
 or address any specific areas where you may seek clarification.
