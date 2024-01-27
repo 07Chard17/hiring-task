@@ -13,4 +13,5 @@ We understand the challenges you're facing, and we genuinely appreciate your und
 Thank you for your understanding, and we look forward to supporting your continued growth in the future.
 
 All the best,
+
 Codepath.org Team
